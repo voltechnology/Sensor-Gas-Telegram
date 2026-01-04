@@ -9,8 +9,8 @@ int ambang = 1900;
 #define gas 34
 #define led 18
 
-#define ssid "KOS KEJAWAN 24"
-#define password "cleanhouse"
+#define ssid "GANTI USERNAME WIFI KAMU DI SINI"
+#define password "GANTI DENGAN PASSWORD KAMU DI SINI"
 
 #define token "GANTI TOKEN KAMU DISINI"
 #define id "GANTI ID KAMU DISINI"
